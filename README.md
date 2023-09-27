@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript, TypeScript, C++, Python, Lua and HTML (CSS)
 - 
 - Take a look at my YouTube Channel: [YouTube-Pokemonboy Adventures](https://www.youtube.com/channel/UCikO67glfy07ucQMwFMPvxQ)
+- Want to be friends on Discord? Here's my totally unique username: `padventures`
 
 <!---
 PAdventures/PAdventures is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
