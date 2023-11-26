@@ -21,7 +21,7 @@ So I guess you can say my hands are full at the moment!
 
 ## My Stats
 [![My stats](https://github-readme-stats.vercel.app/api?username=padventures&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padventures&theme=dark&layout=compact&count_private=false&hide=python)](https://github.com/anuraghazra/github-readme-stats) <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padventures&theme=dark&count_private=false)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
 <!---
 PAdventures/PAdventures is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
