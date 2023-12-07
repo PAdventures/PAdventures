@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in building a website for my Discord Bot
 - ✨ I know JavaScript, TypeScript, Python and Lua (In terms of Robloxs' Lua)
-- 🌱 I’m currently learning C++ and C#
+- 🌱 I’m currently learning C# and Rust
 - 
 - Want to be friends on Discord, or just want to contact me? Here's my totally unique username: `padventures`
 
