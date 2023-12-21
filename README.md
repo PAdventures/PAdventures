@@ -8,7 +8,7 @@
 
 ## What I'm doing right now
 
-I'm the head developer of the [Yara Discord Bot Project](https://github.com/PAdventures/Yara) which is an open source project that is being developed right now. It will soon be released to the public, hopefully by the start of 2024. [Join the discord for more info](https://discord.gg/bzFfMn3VPX)
+I'm the head developer of the [Yara Discord Bot Project](https://github.com/PAdventures/Yara-mirror) which is an open source project that is being developed right now. It will soon be released to the public, hopefully by the start of 2024. [Join the discord for more info](https://discord.gg/bzFfMn3VPX)
 
 I'm also the head developer of a Roblox Development Team building a Horror Game which is currently on pause due personal, more important, road blocks that myself and my co-worker is dealing with. [Join the discord for more info](https://discord.gg/nGCrZeBjRJ)
 
