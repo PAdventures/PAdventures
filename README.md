@@ -23,7 +23,7 @@ So I guess you can say my hands are full at the moment!
  ![Macos](https://img.shields.io/badge/Mac%20OS-black?style=for-the-badge&logo=macos)
 
 ## My Stats
-[![My stats](https://github-readme-stats.vercel.app/api?username=padventures&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats) <br/>
+[![My stats](https://github-readme-stats.vercel.app/api?username=padventures&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/anuraghazra/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padventures&theme=dark&count_private=false)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
 <!---
