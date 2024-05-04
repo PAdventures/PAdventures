@@ -12,8 +12,6 @@ I'm the head developer of the [Yara Discord Bot Project](https://github.com/PAdv
 
 I'm also the head developer of a Roblox Development Team building a Horror Game which is currently on pause due personal, more important, road blocks that myself and my co-worker is dealing with. [Join the discord for more info](https://discord.gg/nGCrZeBjRJ)
 
-Finally I'm developing, as a simple developer 😢, a Discord Bot for a client along side a team. I cannot disclose any information on this project though, and I won't anyways.
-
 So I guess you can say my hands are full at the moment!
 
 ## Stack
