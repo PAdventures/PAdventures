@@ -29,6 +29,10 @@ I'm also the head developer of a Roblox Development Team building a Horror Game 
 
 So I guess you can say my hands are full at the moment!
 
+## Extras
+
+Feel like helping me out? Accept this 1 free week to <https://codecrafters.io> by clicking [my referal link](https://app.codecrafters.io/r/vast-turtle-567266). In return, I also get 1 free week. Win-win
+
 ## My Stack
 ![Javascript](https://img.shields.io/badge/JavaScript-383d45?style=for-the-badge&logo=javascript) ![Typescript](https://img.shields.io/badge/TypeScript-4c82f5?style=for-the-badge&logo=typescript&logoColor=black) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white) ![Nodejs](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=black) ![Mongodb](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb) ![prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma) ![Drizzle](https://img.shields.io/badge/Drizzle-black?style=for-the-badge&logo=drizzle&logoColor=green)
  ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white)
