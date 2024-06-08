@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @PAdventures
 
-- 👀 I’m interested in finishing my Discord.js Framework: [Vortexus.js (Private Repo ATM)](https://github.com/PAdventures/Vortexus.js)
+- 👀 I’m interested in finishing my Discord.js Framework: [Vortexus.js](https://github.com/PAdventures/Vortexus.js)
 - ✨ I know JavaScript, TypeScript, Python and Lua (In terms of Roblox)
 - 🌱 I’m currently learning Rust because I'm insane
 - 
@@ -10,12 +10,7 @@
 
 ### Vortexus.js - Discord.js Framework
 
-Vortexus.js is a (soon to be) open source [Discord.js](https://github.com/discordjs/discord.js) framework inspired by the [Reciple](https://github.com/thenorthsolution/Reciple) framework.
-
-> [!IMPORTANT]
-> Why is the [Vortexus.js](https://github.com/PAdventures/Vortexus.js) repo private right now?
-> 
-> It is currently being developed, and until I feel a sufficient amount of the framework is complete, it will stay that way
+Vortexus.js is an open source [Discord.js](https://github.com/discordjs/discord.js) framework inspired by the [Reciple](https://github.com/thenorthsolution/Reciple) framework.
 
 ### Yara - Discord Bot Project
 
