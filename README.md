@@ -4,7 +4,7 @@
 - ✨ I know JavaScript, TypeScript, Python and Lua (In terms of Roblox)
 - 🌱 I’m currently learning Rust because I'm insane
 - 
-- Want to be friends on Discord, or just want to contact me? Here's my totally username: `padventures`
+- Want to be friends on Discord, or just want to contact me? Here's my totally unique username: `padventures`
 
 ## What I'm doing right now
 
