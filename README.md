@@ -8,21 +8,7 @@
 
 ## What I'm doing right now
 
-### Vortexus.js - Discord.js Framework
-
-Vortexus.js is an open source [Discord.js](https://github.com/discordjs/discord.js) framework inspired by the [Reciple](https://github.com/thenorthsolution/Reciple) framework.
-
-### Yara - Discord Bot Project
-
-I'm the head developer of the [Yara Discord Bot](https://github.com/PAdventures/Yara-mirror) (currently on hold). It will hopefully soon be released to the public, [Join the discord for more info](https://discord.gg/bzFfMn3VPX)
-
-### PJS Studios - Roblox Game Development Team
-
-I'm also the head developer of a Roblox Development Team building a Horror Game which is currently on pause due personal, more important, road blocks that myself and my co-worker is dealing with. [Join the discord for more info](https://discord.gg/nGCrZeBjRJ)
-
-***
-
-So I guess you can say my hands are full at the moment!
+Nothing :/
 
 ## Extras
 
