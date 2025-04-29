@@ -8,7 +8,7 @@
 
 ## What I'm doing right now
 
-Nothing :/
+I'm busy working on my Discord.js Framework (Vortexus.js), well the documentation site for it before I work on the actual framework.
 
 ## Extras
 
