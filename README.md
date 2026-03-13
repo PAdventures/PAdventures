@@ -3,8 +3,6 @@
 - ✨ I know JavaScript, TypeScript, Python, Lua (Roblox) and Rust
 - 🌱 I’m currently learning Rust because I want to suffer
 - 
-- 🔮 Soon I'll be learning C and Java
-- 
 - Want to be friends on Discord, or just want to contact me? Here's my totally unique username: `padventures`
 
 ## What I'm doing right now
@@ -18,7 +16,7 @@ Feel like helping me out? Accept this 1 free week to <https://codecrafters.io> b
 ## My Stack
 
 ### Languages
-![Javascript](https://img.shields.io/badge/JavaScript-383d45?style=for-the-badge&logo=javascript) ![Typescript](https://img.shields.io/badge/TypeScript-4c82f5?style=for-the-badge&logo=typescript&logoColor=black) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white) ![lua](https://img.shields.io/badge/Lua-fff?style=for-the-badge&logo=lua&logoColor=%23000080) ![rust](https://img.shields.io/badge/Rust-fff?style=for-the-badge&logo=rust&logoColor=000&color=B7410E)
+![Javascript](https://img.shields.io/badge/JavaScript-383d45?style=for-the-badge&logo=javascript) ![Typescript](https://img.shields.io/badge/TypeScript-4c82f5?style=for-the-badge&logo=typescript&logoColor=black) ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python) ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white) ![lua](https://img.shields.io/badge/Lua-fff?style=for-the-badge&logo=lua&logoColor=%23000080) ![rust](https://img.shields.io/badge/Rust-fff?style=for-the-badge&logo=rust&logoColor=000&color=B7410E) ![java](https://img.shields.io/badge/Java-fff?style=for-the-badge&logo=java&logoColor=5382a1&color=F89820) ![C](https://img.shields.io/badge/C-fff?style=for-the-badge&logo=c&logoColor=fff&color=00599C)
 
 
 ### JavaScript Runtimes
