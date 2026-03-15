@@ -36,8 +36,8 @@ Feel like helping me out? Accept this 1 free week to <https://codecrafters.io> b
 ![Macos](https://img.shields.io/badge/Mac%20OS-white?style=for-the-badge&logo=macos&logoColor=black)
 
 ## My Teribble Stats
-[![My stats](https://github-readme-stats.vercel.app/api?username=padventures&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/anuraghazra/github-readme-stats) <br/>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=padventures&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br/>
+![Stats](./profile/stats.svg)<br/>
+![Top Languages](./profile/top-langs.svg) <br/>
 
 <!---
 PAdventures/PAdventures is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
