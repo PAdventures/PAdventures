@@ -16,6 +16,19 @@ However, I do occasionally program "serious" projects where I will use git and d
 - Gaming 🎮
 - Hiking (rarely)
 
+## About my programming stack
+Over the years, I've learnt and looked at many programming languages.
+Some have been much more recent, others I've known for years.
+Python was my first *proper* language that I learnt where a few years after, I discovered HTML alongside CSS and JavaScript.
+Then I messed around in RobloxStudio with Lua for a year or so.
+Interestingly enough, I started learning Rust before learning C.
+This may come as a surprise to many (or not), since I know of many amazing programmers who've all said to learn C first after knowing a bit about programming.
+C is a wonderful language in many aspects, but I do recognise its problems.
+Hence, why I chose to learn Rust first where the borrow checker and lifetimes essentially prevent all memory leaks.
+
+For the lonest time, I was using VSCode as my text editor/IDE.
+However, I always hated that it was high on the memory usage side, which is when I discovered Zed which is now my go-to for all languages except Python (PyCharm) and Java (IntelliJ IDEA).
+
 *I do tend to forget to update my profile, so it may be out of date*
 
 ## My Stack
@@ -25,20 +38,20 @@ However, I do occasionally program "serious" projects where I will use git and d
 
 
 ### JavaScript Runtimes
-![Nodejs](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=black) ![Deno](https://img.shields.io/badge/Deno-000?style=for-the-badge&logo=deno&color=555)
+![Nodejs](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs&logoColor=black) ![Deno](https://img.shields.io/badge/Deno-000?style=for-the-badge&logo=deno&color=555) ![Bun](https://img.shields.io/badge/Bun-000?style=for-the-badge&logo=bun&color=555)
 
 ### Databases and ORMs
-![prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma&color=555) ![Drizzle](https://img.shields.io/badge/Drizzle-black?style=for-the-badge&logo=drizzle&logoColor=green&color=555) ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white) ![Mongodb](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb)
+![prisma](https://img.shields.io/badge/Prisma-black?style=for-the-badge&logo=prisma&color=555) ![Drizzle](https://img.shields.io/badge/Drizzle-black?style=for-the-badge&logo=drizzle&logoColor=green&color=555) ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis&logoColor=white) ![Mongodb](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb) ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase&color=222)
 
 ### Web Frameworks
 ![Nextjs](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&color=555)
 
 ### Text Editors / IDEs
-![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-grey?style=for-the-badge&logo=robloxstudio) ![Zed](https://img.shields.io/badge/Zed-000?style=for-the-badge&logo=zedindustries&color=555) ![xcode](https://img.shields.io/badge/Xcode-000?style=for-the-badge&logo=xcode&color=555) ![vscode](https://img.shields.io/badge/VSCode-fff?style=for-the-badge&color=0078d4)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-grey?style=for-the-badge&logo=robloxstudio) ![Zed](https://img.shields.io/badge/Zed-000?style=for-the-badge&logo=zedindustries&color=555) ![xcode](https://img.shields.io/badge/Xcode-000?style=for-the-badge&logo=xcode&color=555) ![vscode](https://img.shields.io/badge/VSCode-fff?style=for-the-badge&color=0078d4) ![pycharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=intellijidea&color=green) ![intellij idea](https://img.shields.io/badge/IntelliJ%20IDEA-000?style=for-the-badge&logo=intellijidea&color=red)
 
 
 ### Platforms
-![Macos](https://img.shields.io/badge/Mac%20OS-white?style=for-the-badge&logo=macos&logoColor=black)
+![Macos](https://img.shields.io/badge/Mac%20OS-white?style=for-the-badge&logo=apple&logoColor=black)
 
 ## Random Stats
 ![Stats](./profile/stats.svg)<br/>
