@@ -1,17 +1,22 @@
 # 👋 Hi, I’m @PAdventures
 
-- ✨ I know JavaScript, TypeScript, Python, Lua (Roblox) and Rust
-- 🌱 I’m currently learning Rust because I want to suffer
-- 
-- Want to be friends on Discord, or just want to contact me? Here's my totally unique username: `padventures`
+I'm a student at the Univeristy of Southampton studying Computer Science w/ AI.
+I mostly just code random stuff and mess around with lanaguges.
+However, I do occasionally program "serious" projects where I will use git and document code (when I remember too).
 
-## What I'm doing right now
+<details>
+  <summary>Need to know my real name?</summary>
+  no lmao
+</details>
 
-Busy studying at University
+### What do I do when I'm not coding?
 
-## Extras
+- Studying at Univerity
+- Running 🏃
+- Gaming 🎮
+- Hiking (rarely)
 
-Feel like helping me out? Accept this 1 free week to <https://codecrafters.io> by clicking [my referal link](https://app.codecrafters.io/r/vast-turtle-567266). In return, I also get 1 free week. Win-win
+*I do tend to forget to update my profile, so it may be out of date*
 
 ## My Stack
 
@@ -35,7 +40,7 @@ Feel like helping me out? Accept this 1 free week to <https://codecrafters.io> b
 ### Platforms
 ![Macos](https://img.shields.io/badge/Mac%20OS-white?style=for-the-badge&logo=macos&logoColor=black)
 
-## My Teribble Stats
+## Random Stats
 ![Stats](./profile/stats.svg)<br/>
 ![Top Languages](./profile/top-langs.svg) <br/>
 
