@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">PAdventures' GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 294, Total PRs: 13, Total PRs Merged: 13, Total PRs Reviewed: 3, Total Issues: 14, Total Discussions Started: 3, Total Discussions Answered: 2, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  (last year) : 262, Total PRs: 13, Total PRs Merged: 13, Total PRs Reviewed: 3, Total Issues: 14, Total Discussions Started: 3, Total Discussions Answered: 2, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 195.69696303720102;
+        stroke-dashoffset: 197.4169340172409;
       }
     }
   
@@ -169,7 +169,7 @@
         x="199.01"
         y="12.5"
         data-testid="commits"
-      >294</text>
+      >262</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
